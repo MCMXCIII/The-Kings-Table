@@ -33,6 +33,8 @@ const AboutPage = ({ data }, location) => {
           </p>
           <p>
             Born in Old Town Alexandria and raised in College Park, Maryland, Born of Kings Blood.
+            I have always wanted to be a creator in some way and work on things that interested me and I also had a love
+            for cooking and writing. So why not make a website about food?
           </p>
         </div>
       </article>
